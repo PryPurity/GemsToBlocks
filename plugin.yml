@@ -1,0 +1,11 @@
+name: GemsToBlocks
+main: Main.Main
+version: 1.4.2
+author: Imhandmade
+commands:
+    blocks:
+        usage:
+        description: Turn all the gems into blocks.
+    trash:
+        usage:
+        description: Toss useless items into this chest.
